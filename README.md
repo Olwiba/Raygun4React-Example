@@ -1,6 +1,6 @@
 # Raygun4React-Example
 
-A React v6 + Raygun demo app 🔫
+A React v18 + React Router v6 + Raygun demo app 🔫
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
