@@ -12,10 +12,6 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  rg4js('apiKey', `${process.env.REACT_APP_RAYGUN_API_KEY}`);
-  rg4js('enableCrashReporting', true);
-  rg4js('enablePulse', true);
-  rg4js('boot');
 
   let location = useLocation();
 
